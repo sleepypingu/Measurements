@@ -9,6 +9,11 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.Measurements">
+        <activity
+            android:name=".Phenomena_and_illusions"
+            android:label="@string/title_activity_phenomena_and_illusions"
+            android:theme="@style/Theme.Measurements.NoActionBar"></activity>
+        <activity android:name=".Educational" />
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
