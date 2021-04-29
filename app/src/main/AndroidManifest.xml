@@ -10,9 +10,12 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Measurements">
         <activity
+            android:name=".SettingsActivity"
+            android:label="@string/title_activity_settings"></activity>
+        <activity
             android:name=".Phenomena_and_illusions"
             android:label="@string/title_activity_phenomena_and_illusions"
-            android:theme="@style/Theme.Measurements.NoActionBar"></activity>
+            android:theme="@style/Theme.Measurements.NoActionBar" />
         <activity android:name=".Educational" />
         <activity android:name=".MainActivity">
             <intent-filter>
