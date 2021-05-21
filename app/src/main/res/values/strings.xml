@@ -93,4 +93,24 @@
         "when a user tries to pick up one of cards.\n\n"
     </string>
     <string name="action_settings">Settings</string>
+    <string name="fun_fact_title">Fun fact</string>
+    <string name="fun_fact_content">
+        Fun fact 1:
+        <br/>"Horsepower" is a well-known unit of measurement, but do you know that there is another unit
+        of measurement called "donkey power"? It is defined as 250 watts, which is about a third of
+        a horsepower.
+
+        <br/><br/>Fun fact 2:
+        <br/>You probably know that there is a small amount of radiation in a banana due to the presence
+        of a natural isotope of potassium. There is actually an informal term for the amount which
+        is called banana equivalent dose (BED). It was intended to be a general educational example
+        to compare a dose of radioactivity to the dose one is exposed to by eating an average-sized
+        banana.
+
+        <br/><br/>Fun fact 3:
+        <br/>A British YouTuber Tom Scott defines the term onosecond, in one of his video titled:
+        The Worst Typo I Ever Made, as the second after one makes a terrible mistake, where
+        everything you can do is to say: Oh no.
+    </string>
+
 </resources>
