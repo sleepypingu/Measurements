@@ -24,24 +24,47 @@
     <string name="title_settings_activity">SettingsActivity</string>
 
     <string name="action_settings">Settings</string>
-    <string name="fun_fact_title">Fun fact</string>
+    <string name="fun_fact_title">Fun facts</string>
     <string name="fun_fact_content">
         Fun fact 1:
-        <br />"Horsepower" is a well-known unit of measurement, but do you know that there is another unit
-        of measurement called "donkey power"? It is defined as 250 watts, which is about a third of
-        a horsepower.
+        <br />"Horsepower" is a well-known unit of measurement, but do you know that there is another
+        unit of measurement called "donkey power"? It is defined as 250 watts, which is about a third
+        of a horsepower.
 
         <br /><br />Fun fact 2:
         <br />You probably know that there is a small amount of radiation in a banana due to the presence
         of a natural isotope of potassium. There is actually an informal term for the amount which
-        is called banana equivalent dose (BED). It was intended to be a general educational example
+        is called "banana equivalent dose" (BED). It was intended to be a general educational example
         to compare a dose of radioactivity to the dose one is exposed to by eating an average-sized
-        banana.
+        banana. To be slightly technical, one BED is equivalent to 0.1 microsieverts.
 
         <br /><br />Fun fact 3:
-        <br />A British YouTuber Tom Scott defines the term onosecond, in one of his video titled:
-        The Worst Typo I Ever Made, as the second after one makes a terrible mistake, where
-        everything you can do is to say: Oh no.
+        <br />A British YouTuber Tom Scott defines the term "onosecond", in one of his video titled:
+        "The Worst Typo I Ever Made", as the second after one makes a terrible mistake, where
+        everything you can do is to say: "Oh no".
+
+        <br/><br/>Fun fact 4:
+        <br/>One of the most ridiculous name of a unit of measurement is "pirate-ninja". A
+        pirate-ninja is defined as a kilowatt-hour per Martian day or sol. It is equivalent to
+        approximately 40.55 watts.
+
+        <br/><br/>Fun fact 5:
+        <br/>Inspired by Walt Disney's Mickey Mouse, one "Mickey" is the smallest resolvable unit of
+        distance by a given computer mouse pointing device. Mouse motion is reported in horizontal
+        and vertical mickeys. Device sensitivity is usually specified in mickeys per inch. Typical
+        resolution is 16 mickeys per millimeter. Available resolutions are up to 600 mickeys per
+        millimeter.
+
+        <br/><br/>Fun fact 5:
+        <br/>A "Fortnight" is defined as 14 days, but do you know that fortnight is part of a system
+        called FFF system? The FFF system's full name is furlong-firkin-fortnight system. It is based
+        on unusual or impractical measurements. "Furlong" is the unit of length (201.168m), "firkin"
+        is the unit of mass (40.8233133kg), and "fortnight" is the unit of time (14 days). Despite
+        being old and impractical, Myanmar still uses furlong in conjunction with miles to indicate
+        distances on highway signs. Also, the terms was originated in England in the late 13th or early
+        14th century, therefore during the 16th century, before the SI units and the imperial units
+        (18th century), furlong is used on horse racing in England and they are still using it today.
+
     </string>
 
 </resources>
