@@ -9,13 +9,23 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.Measurements">
+        <activity android:name=".sub1">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".phenomena_and_illusions">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
         <activity
             android:name=".SettingsActivity"
-            android:label="@string/title_activity_settings"></activity>
-        <activity
-            android:name=".Phenomena_and_illusions"
-            android:label="@string/title_activity_phenomena_and_illusions"
-            android:theme="@style/Theme.Measurements.NoActionBar" />
+            android:label="@string/title_activity_settings" />
         <activity android:name=".Educational" />
         <activity android:name=".MainActivity">
             <intent-filter>
