@@ -26,39 +26,39 @@
     <string name="fun_fact_title">Fun facts</string>
     <string name="fun_fact_content">
         Fun fact 1:
-        <br/>"Horsepower" is a well-known unit of measurement, but do you know that there is another
+        <br/><i>Horsepower</i> is a well-known unit of measurement, but do you know that there is another
         unit of measurement called "donkey power"? It is defined as 250 watts, which is about a third
         of a horsepower.
 
         <br/><br/>Fun fact 2:
         <br/>You probably know that there is a small amount of radiation in a banana due to the presence
         of a natural isotope of potassium. There is actually an informal term for the amount which
-        is called "banana equivalent dose" (BED). It was intended to be a general educational example
+        is called <i>banana equivalent dose</i> (BED). It was intended to be a general educational example
         to compare a dose of radioactivity to the dose one is exposed to by eating an average-sized
         banana. To be slightly technical, one BED is equivalent to 0.1 microsieverts.
 
         <br /><br />Fun fact 3:
-        <br />A British YouTuber Tom Scott defines the term "onosecond", in one of his video titled:
+        <br />A British YouTuber Tom Scott defines the term <i>onosecond</i>, in one of his video titled:
         "The Worst Typo I Ever Made", as the second after one makes a terrible mistake, where
         everything you can do is to say: "Oh no".
 
         <br/><br/>Fun fact 4:
-        <br/>One of the most ridiculous name of a unit of measurement is "pirate-ninja". A
+        <br/>One of the most ridiculous name of a unit of measurement is <i>pirate-ninja</i>. A
         pirate-ninja is defined as a kilowatt-hour per Martian day or sol. It is equivalent to
         approximately 40.55 watts.
 
         <br/><br/>Fun fact 5:
-        <br/>Inspired by Walt Disney's Mickey Mouse, one "Mickey" is the smallest resolvable unit of
+        <br/>Inspired by Mickey Mouse created by Walt Disney, one <i>Mickey</i> is the smallest resolvable unit of
         distance by a given computer mouse pointing device. Mouse motion is reported in horizontal
         and vertical mickeys. Device sensitivity is usually specified in mickeys per inch. Typical
         resolution is 16 mickeys per millimeter. Available resolutions are up to 600 mickeys per
         millimeter.
 
         <br/><br/>Fun fact 6:
-        <br/>A "Fortnight" is defined as 14 days, but do you know that fortnight is part of a system
-        called the FFF system? The FFF system's full name is furlong-firkin-fortnight system. It is
-        based on unusual or impractical measurements. "Furlong" is the unit of length (1 furlong = 201.168m),
-        "firkin" is the unit of mass (1 firkin = 40.8233133kg), and "fortnight" is the unit of time
+        <br/>A <i>fortnight</i> is defined as 14 days, but do you know that fortnight is part of a system
+        called the FFF system? The full name of FFF system is furlong-firkin-fortnight system. It is
+        based on unusual or impractical measurements. <i>Furlong</i> is the unit of length (1 furlong = 201.168m),
+        <i>firkin</i> is the unit of mass (1 firkin = 40.8233133kg), and <i>fortnight</i> is the unit of time
         (1 fortnight = 14 days). Despite being old and impractical, Myanmar still uses furlong in
         conjunction with miles to indicate distances on highway signs. Also, the terms was originated
         in England in the late 13th or early 14th century, therefore during the 16th century, before
@@ -66,27 +66,27 @@
         and they are still using it today.
 
         <br/><br/>Fun Fact 7:
-        <br/>Heart beat has an average of 80 beats per minute, that's 4,800 times per hour and 115,200
+        <br/>Heart beat has an average of 80 beats per minute, that is 4,800 times per hour and 115,200
         times per day. Assume you live to be 80 years old, your heart would have beaten approximately
         3,363,840,000 times. Every beat pumps around 70 ml of blood, that means 5.6 litres per minute,
-        336 litres per hour, 8064 litres per day, and assume you live to 80 years old, that's
+        336 litres per hour, 8064 litres per day, and assume you live to 80 years old, that is
         235,468,800 litres of blood.
 
         <br/><br/>Fun Fact 8:
-        <br/>This one may be a little not safe for work (NSFW). But to correctly measure a person's
-        penis, urologists recommends a measurement method called Bone Pressed Flaccid Length (BPFL).
+        <br/>This one may be a little not safe for work (NSFW). But to correctly measure a penis,
+        urologists recommends a measurement method called Bone Pressed Flaccid Length (BPFL).
         Basically, the standard by which you should use for comparison against other bone-pressed size
         studies is called Bone-Pressed Measurement (BP) in which you push a ruler or measuring instrument
         into the fat or skin all the way to the pubic bone. On the other hand, Non-Bone-Pressed
         Measurement (NBP) is the visible length of the penis which is NOT good for statistical comparison
-        as it fluctuates depending on one's body fat level and potentially other factors. An example
+        as it fluctuates depending on the body fat level and potentially other factors. An example
         for this would be a person with the body fat of 20% could have a possible NBP gain of 1.397 cm.
 
         <br/><br/>Fun Fact 9:
         <br/>To be honest, this is not so fun of a fact. The longest human neck can extend to 19.7 cm,
         this record belong to women in the Padaung/Kayan tribe in the highlands of northwestern Thailand
-        and southeastern Myanmar. As a cultural practice, the tribe uses heavy brass rings on a female's
-        neck from the age 5 to 9 and add more as they age. The rings increases the length of neck by
+        and southeastern Myanmar. As a cultural practice, the tribe uses heavy brass rings on the necks
+        of female from the age 5 to 9 and add more as they age. The rings increases the length of neck by
         pressing down on the ribcage and lower jaw. Over time the weight of the rings distorts the
         musculature of the shoulders, bends the collarbone and ribcage, and compresses the lower jaw.
         This creates the impression that the neck has been lengthened. Although through X-ray,
@@ -95,7 +95,7 @@
         causing a significant reduction of life expectancy of the women of the tribe.
 
         <br/><br/>Fun Fact 10:
-        <br/>According to Dr. Maggie Aderin-Pocock who ran computer simulations on the distance between\
+        <br/>According to Dr. Maggie Aderin-Pocock who ran computer simulations on the distance between
         the Moon and Earth, the Moon was much closer to the Earth, which was only 22,500 km away comparing
         to today which furthest apart (Apogee) is more than 400,000 km away. As of right now, the Moon
         continues to spin away from the Earth at the rate pf 3.78 km per year. Without the Moon, the
