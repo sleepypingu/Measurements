@@ -16,7 +16,7 @@ public class sub2 extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_sub2);
 
-        button15 = (Button) findViewById(R.id.button15);
+        button15 = (Button) findViewById(R.id.button14);
 
         button15.setOnClickListener(new View.OnClickListener() {
             @Override
