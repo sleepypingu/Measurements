@@ -1,37 +1,214 @@
-<resources>
-    <string name="app_name">Measurements</string>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name" translatable="false">Measurements</string>
     <string name="phenomena_and_illusions">Phenomena and Illusions</string>
     <string name="phenomena_and_illusions_title">Phenomena and Illusions</string>
     <string name="phenomena_and_illusions_content">
-        <br/>
-        - Physics is the scientific study of how matter and energy interact.
-        <br/>
-        <br/>
-        - This interaction can produce the colors of the rainbow in a shower
-        <br/>
-        <br/>
-        - At a greater distance, the interaction of matter and energy in the Sun produces
+        <br />
+        <br />- Physics is the scientific study of how matter and energy interact.
+        <br />
+        <br />
+        <br />- This interaction can produce the colors of the rainbow in a shower
+        <br />
+        <br />
+        <br />- At a greater distance, the interaction of matter and energy in the Sun produces
         light and heat. In our eyes the light energy is converted into electrical energy,
         which passes to our brain and allows us to see objects in front of us.
     </string>
     <string name="sub1_content">
-        <br/>
-        - A rainbow is a meteorological phenomenon that appears as a multicolored arc that
+        <br />
+        <br />- A rainbow is a meteorological phenomenon that appears as a multicolored arc that
         forms with sunlight.
     </string>
-    <string name="measuring_length_mass_and_time">measuring_length_mass_and_time</string>
+    <string name="sub2_content">
+        <br />
+        <br />Phenomena
+        <br />
+        <br />
+        <br />- We gather all information surrounding us with our own senses.
+        <br />- Information such as the presence of light, and events like the previous formation
+        of rainbows, are called PHENOMENA(singular: phenomenon)
+
+    </string>
+    <string name="sub3_content">
+        <br />
+        <br />LAUNCHING A ROCKET
+        <br />
+        <br />
+        <br />- Light from the rocket\'s engines can be seen immediately by the distance spectators.
+        <br />
+        <br />
+        <br />- The rocket\'s speed increases every second as it went up high into the sky.
+        <br />
+        <br />
+        <br />- The rocket is divided into parts, called STAGES.
+        <br />
+        <br />
+        <br />- Every stage has a fuel tank and rocket engines.
+        <br />
+        <br />
+        <br />- When the fuel in a stage is used up, the rocket will then detached from the others,
+        <br />hence enables the next stage to use it\'s rocket engines and fuel, to propel the rocket
+        <br />further more into the sky.
+        <br />
+        <br />
+        <br />- After all stages completed, only one small stage is left, which is where to cockpit
+        is located.
+        <br />
+        <br />
+        <br />- Thus it is left orbiting around the Earth in space.
+        <br />
+        <br />
+    </string>
+    <string name="sub4_content">
+        <br />
+        <br />WHY
+        <br />
+        <br />
+        <br /><br />- Why was the light from the rocket engine seen first before the sound of the blast?
+        = light goes faster than sound.
+        <br />
+        <br />
+        <br /><br />- Why are the stages fall back to Earth when they are detached from the rocket?
+        = Earth\'s gravity pulls the stages of the rocket from the sky as they have not
+        escape the Earth\'s atmosphere and gravitational pull.
+        <br />
+        <br /><br />- Why did the stages burn up in the atmosphere?
+        = Due to the high level of O2, the stages are slowly burn to ashes as it decent speed
+        increases.
+
+    </string>
+    <string name="sub5_content" translatable="false">
+        <br />
+        <br />FOOLING OUR SENSES
+        <br />
+        <br />
+        <br />- All of our senses can be fooled into seeming to detecting something that is not
+        really present. (GHOST?!)
+        <br />
+        <br />
+        <br />- Therefore, we need to make more accurate observation in terms of phenomena in the
+        name of science!
+        <br />
+        <br />
+        ------------------------ END ---------------------------
+    </string>
+
+    <string name="length_mass_and_time_title">Length, mass and time</string>
+    <string name="lmt_content">
+        <br />
+        <br />- There are 3 things that are measured in this world.
+        <br />
+        <br />- All measurements are read and made in UNITS.
+        <br />
+        <br />- Scientists around the world uses a general measuring unit which is called the
+        SYSTEM INTERNATIONAL d\'UNITES. (SI units).
+        <br />
+        <br />
+        <br />- Measuring LENGTH: in SI unit, it is the metre:
+        km, m, cm, Mm, nm and etc..
+        <br />
+        <br />
+        <br />Measuring MASS: SI unit, it is in kg:
+        <br />mt, t, kg, g, mg
+        <br />
+        <br />
+        <br />Measuring TIME: SI unit, it is in seconds, s:
+        <br />d, hr, min, s, ms and etc...
+        <br />
+    </string>
+
+    <string name="estimating_quantities_title">Estimating Quantities</string>
+    <string name="eq_content">
+        <br />
+        <br />---------Accuracy of Measurement--------
+        <br />
+        <br />
+        <br />- At the beginning of an investigation, it may be useful to estimate the quantities that
+        are going to be used or the time that is going to be taken for certain observations
+        <br />
+        <br />
+        <br />- Your accuracy when making a measurement depends on the measuring instrument:
+        <br />
+        <br />Could be:
+        <br />
+        <br />
+        <br />1. Eyes (approximation, very inaccurate, improve over experience, although still very
+        inaccurate)
+        <br />
+        <br />
+        <br />2. Body Limb (approximation, too many variables)
+        <br />
+        <br />
+        <br />3. Ruler (accurate, many types of rulers, metal, wooden, plastic, but has a shorter limit)
+        <br />
+        <br />
+        <br />4. Measuring tape (accurate, can measure longer than ruler)
+        <br />
+        <br />
+        <br />- Scenery when measuring:
+        <br />
+        <br />1. Instrument\'s accuracy, the calibrations and build of the measuring item.
+        <br />
+        <br />
+        <br />2. Instrument\'s scale, limit or no limit and the construction of instrument
+        <br />
+        <br />
+        <br />3. The usage of the instrument, is it correctly used(?)
+        <br />
+        <br />
+    </string>
+
+    <string name="ht_title">Heat and Temperature</string>
+    <string name="ht_content">
+        <br />
+        <br />- The hotness or coldness of a substance is measured by taking its temperature
+        <br />
+        <br />
+        <br />- The most widely used temperature scale is the Celsius scale, However there are also
+        <br />other methods or ways it can be measured like Kelvin or Fahrenheit.
+        <br />
+        <br />
+        <br />- In Celsius, there are 2 fixed points:
+        <br />
+        <br />1. 0*c (melting point of ICE, or freezing point of WATER)
+        <br />
+        <br />2. 100*c (the boiling point of water)
+        <br />
+        <br />
+        <br />- The lowest possible temperature, otherwise known as absolute zero, with a temperature
+        of -273*c.
+        <br />
+        <br />- However, for the exact opposite, temperatures can go as high as millions of degrees Celsius
+        <br />
+        <br />
+        <br />----------Liquids in Thermometers---------
+        <br />
+        <br />
+        <br />- 2 Liquids that are commonly used in thermometers you see in schools
+        <br />
+        <br />
+        <br />1. Mercury
+        <br />
+        <br />2. Alcohol
+        <br />
+        <br />
+        <br />- Mercury has a freezing point of -37*c, and boiling point of 360*c.
+        <br />
+        <br />- Alcohol has a freezing point of -112*c, and boiling point of 78*c.
+    </string>
+
     <string name="title_settings_activity">SettingsActivity</string>
 
     <string name="action_settings">Settings</string>
     <string name="fun_fact_title">Fun facts</string>
     <string name="fun_fact_content">
         Fun fact 1:
-        <br/><i>Horsepower</i> is a well-known unit of measurement, but do you know that there is another
+        <br /><i>Horsepower</i> is a well-known unit of measurement, but do you know that there is another
         unit of measurement called "donkey power"? It is defined as 250 watts, which is about a third
         of a horsepower.
 
-        <br/><br/>Fun fact 2:
-        <br/>You probably know that there is a small amount of radiation in a banana due to the presence
+        <br /><br />Fun fact 2:
+        <br />You probably know that there is a small amount of radiation in a banana due to the presence
         of a natural isotope of potassium. There is actually an informal term for the amount which
         is called <i>banana equivalent dose</i> (BED). It was intended to be a general educational example
         to compare a dose of radioactivity to the dose one is exposed to by eating an average-sized
@@ -42,20 +219,20 @@
         "The Worst Typo I Ever Made", as the second after one makes a terrible mistake, where
         everything you can do is to say: "Oh no".
 
-        <br/><br/>Fun fact 4:
-        <br/>One of the most ridiculous name of a unit of measurement is <i>pirate-ninja</i>. A
+        <br /><br />Fun fact 4:
+        <br />One of the most ridiculous name of a unit of measurement is <i>pirate-ninja</i>. A
         pirate-ninja is defined as a kilowatt-hour per Martian day or sol. It is equivalent to
         approximately 40.55 watts.
 
-        <br/><br/>Fun fact 5:
-        <br/>Inspired by Mickey Mouse created by Walt Disney, one <i>Mickey</i> is the smallest resolvable unit of
+        <br /><br />Fun fact 5:
+        <br />Inspired by Mickey Mouse created by Walt Disney, one <i>Mickey</i> is the smallest resolvable unit of
         distance by a given computer mouse pointing device. Mouse motion is reported in horizontal
         and vertical mickeys. Device sensitivity is usually specified in mickeys per inch. Typical
         resolution is 16 mickeys per millimeter. Available resolutions are up to 600 mickeys per
         millimeter.
 
-        <br/><br/>Fun fact 6:
-        <br/>A <i>fortnight</i> is defined as 14 days, but do you know that fortnight is part of a system
+        <br /><br />Fun fact 6:
+        <br />A <i>fortnight</i> is defined as 14 days, but do you know that fortnight is part of a system
         called the FFF system? The full name of FFF system is furlong-firkin-fortnight system. It is
         based on unusual or impractical measurements. <i>Furlong</i> is the unit of length (1 furlong = 201.168m),
         <i>firkin</i> is the unit of mass (1 firkin = 40.8233133kg), and <i>fortnight</i> is the unit of time
@@ -65,15 +242,15 @@
         the SI units and the imperial units (18th century), furlong is used on horse racing in England
         and they are still using it today.
 
-        <br/><br/>Fun Fact 7:
-        <br/>Heart beat has an average of 80 beats per minute, that is 4,800 times per hour and 115,200
+        <br /><br />Fun Fact 7:
+        <br />Heart beat has an average of 80 beats per minute, that is 4,800 times per hour and 115,200
         times per day. Assume you live to be 80 years old, your heart would have beaten approximately
         3,363,840,000 times. Every beat pumps around 70 ml of blood, that means 5.6 litres per minute,
         336 litres per hour, 8064 litres per day, and assume you live to 80 years old, that is
         235,468,800 litres of blood.
 
-        <br/><br/>Fun Fact 8:
-        <br/>This one may be a little not safe for work (NSFW). But to correctly measure a penis,
+        <br /><br />Fun Fact 8:
+        <br />This one may be a little not safe for work (NSFW). But to correctly measure a penis,
         urologists recommends a measurement method called Bone Pressed Flaccid Length (BPFL).
         Basically, the standard by which you should use for comparison against other bone-pressed size
         studies is called Bone-Pressed Measurement (BP) in which you push a ruler or measuring instrument
@@ -82,8 +259,8 @@
         as it fluctuates depending on the body fat level and potentially other factors. An example
         for this would be a person with the body fat of 20% could have a possible NBP gain of 1.397 cm.
 
-        <br/><br/>Fun Fact 9:
-        <br/>To be honest, this is not so fun of a fact. The longest human neck can extend to 19.7 cm,
+        <br /><br />Fun Fact 9:
+        <br />To be honest, this is not so fun of a fact. The longest human neck can extend to 19.7 cm,
         this record belong to women in the Padaung/Kayan tribe in the highlands of northwestern Thailand
         and southeastern Myanmar. As a cultural practice, the tribe uses heavy brass rings on the necks
         of female from the age 5 to 9 and add more as they age. The rings increases the length of neck by
@@ -94,26 +271,26 @@
         practice actually causes respiratory and cardiovascular problems, and distorted dental development,
         causing a significant reduction of life expectancy of the women of the tribe.
 
-        <br/><br/>Fun Fact 10:
-        <br/>According to Dr. Maggie Aderin-Pocock who ran computer simulations on the distance between
+        <br /><br />Fun Fact 10:
+        <br />According to Dr. Maggie Aderin-Pocock who ran computer simulations on the distance between
         the Moon and Earth, the Moon was much closer to the Earth, which was only 22,500 km away comparing
         to today which furthest apart (Apogee) is more than 400,000 km away. As of right now, the Moon
         continues to spin away from the Earth at the rate pf 3.78 km per year. Without the Moon, the
         Earth could slow down enough to become unstable. However, that would take billions of years
         and may never even happen at all.
 
-        <br/><br/>Fun Fact 11:
-        <br/>A single 200 ml glass of dairy milk uses up around 120 litres of water. The water is used
+        <br /><br />Fun Fact 11:
+        <br />A single 200 ml glass of dairy milk uses up around 120 litres of water. The water is used
         mostly for cows and to grow their food. Meanwhile, almond milk takes nearly 70 litres of water
         per glass, and most of it is used to grow almond trees. Soy and oat milk only take 5 - 10
         litres of water per glass.
 
-        <br/><br/>Fun Fact 12:
-        <br/>Human shed about 600,000 particles of skin every hour, which works out to be about 0.68
+        <br /><br />Fun Fact 12:
+        <br />Human shed about 600,000 particles of skin every hour, which works out to be about 0.68
         kg of skin per year,or a total of 54.4 kg assuming you reach the age of 80.
 
-        <br/><br/>Fun Fact 13:
-        <br/>If you have the mean to do it, the longest possible uninterrupted walk without boat or
+        <br /><br />Fun Fact 13:
+        <br />If you have the mean to do it, the longest possible uninterrupted walk without boat or
         air journey on Earth is 22,387 km long from Cape Town, South Africa to Magadan, Russia and vice
         versa. According to Google Map, it takes 4,492 hours or 187 days of non-stop walking to get
         there.

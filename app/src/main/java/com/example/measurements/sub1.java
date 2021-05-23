@@ -9,16 +9,16 @@ import android.widget.Button;
 
 public class sub1 extends AppCompatActivity {
 
-    private android.widget.Button button9;
+    private android.widget.Button button10;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_sub1);
 
-        button9 = (Button) findViewById(R.id.button9);
+        button10 = (Button) findViewById(R.id.button10);
 
-        button9.setOnClickListener(new View.OnClickListener() {
+        button10.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 Intent int1 = new Intent(sub1.this, sub2.class);

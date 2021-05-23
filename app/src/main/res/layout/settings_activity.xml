@@ -29,7 +29,7 @@
             android:typeface="serif" />
 
         <Button
-            android:id="@+id/button6"
+            android:id="@+id/button5"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintHorizontal_bias="0.0"
             app:layout_constraintStart_toStartOf="parent"
@@ -48,7 +48,7 @@
             android:typeface="serif" />
 
         <Button
-            android:id="@+id/button7"
+            android:id="@+id/button6"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintHorizontal_bias="0.0"
             app:layout_constraintStart_toStartOf="parent"
